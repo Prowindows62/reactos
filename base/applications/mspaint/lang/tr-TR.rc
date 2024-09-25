@@ -269,8 +269,8 @@ BEGIN
     IDS_UNDERLINE "Altı Çizgili"
     IDS_VERTICAL "Düşey"
     IDS_PRINTRES "%d x %d pixel/cm"
-    IDS_CANTPASTE "Failed to paste from the clipboard. The data format is either incorrect or not supported."
-    IDS_SAVEERROR "Failed to save the bitmap to file:\n\n%s"
-    IDS_CANTSENDMAIL "Failed to send a mail."
-    IDS_LOSECOLOR "The color information will be lost in this operation. Are you sure to proceed?"
+    IDS_CANTPASTE "Panodan yapıştırma başarısız oldu. Veri formatı ya bozuk ya da desteklenmiyor."
+    IDS_SAVEERROR "Bitmap dosyaya kaydedilemedi:\n\n%s"
+    IDS_CANTSENDMAIL "E-posta gönderilemedi."
+    IDS_LOSECOLOR "Bu işlemde renk bilgisi kaybedilecek. Devam etmek istiyor musunuz?"
 END
